@@ -6,6 +6,7 @@ Welcome to this repository, which provides a curated set of Verilog HDL files an
 - `Behavioural_modelling/` — Verilog modules using behavioural statements (`always`, `if`, `case`, etc.).  
 - `Dataflow_modelling/` — Modules modelled using continuous assignments (`assign`) and operators.  
 - `assignment/` — Sample exercises and assignments to reinforce learnt concepts.
+- `FSM/` — Finite State Machine (FSM) based designs implemented in Verilog. These examples help you understand how to model control logic using states, transitions, and outputs.
 
 ## 🧠 Purpose  
 This repository is meant for students and hobby-engineers who wish to practise and master Verilog HDL. It complements academic coursework or self-learning in hardware description languages, digital circuits, and design verification.
